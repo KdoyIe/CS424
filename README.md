@@ -4,5 +4,7 @@ This repository contains work done in a Final Year College module in 2018/19 aro
 This repo contains the following languages:
 
    -Scheme
-  -Haskell
-  -Prolog
+   
+   -Haskell
+   
+   -Prolog
